@@ -1,0 +1,106 @@
+###############################################################################
+About:
+
+HIDE UR IP
+-------------------------------------------------------------------------------
+"Hide ur ip" is php script aimed at "safe browsing".No one is anominous in cyber
+world.IP(internet protocol) address is one of most important thing which can be
+find out easly by a beginer in cyber world.Cyber criminals use this 'ip' to break
+into big servers as well as personal computer.One can hide your ip address by 
+using proxy ip address.
+
+Hide ur ip contains a proxybrowser and fakemailer
+--------------------------------------------------------------------------------
+PROXY BROWSER
+--------------------------------------------------------------------------------
+It is php script (online browser) which hide ur ip address and enables one
+to surf safely though internet
+--------------------------------------------------------------------------------
+FAKE-MAILER
+--------------------------------------------------------------------------------
+FAKE-MAILER is PHP script for sending Anonymous mails
+
+Author :ABIL N GEORGE
+################################################################################
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+or see <http://www.gnu.org/licenses/>.
+
+
+Important notes:
+
+- We hereby ask people using this source NOT to use it for illegal purposes, 
+violating the laws of all countries in the world, violation of good manners! 
+This site is forbidden to use illegal activities, violations of laws of all 
+countries, violation of good manners,etc!This site is designed to educate 
+users about e-mails, certainly not intended for illegal activities!
+This would disgrace our work, and spoil the many hours we spent on it.
+
+################################################################################
+
+Disclaimer:
+ 
+All data contained herein, software, services, located in hideurip not be used 
+for illegal purposes, violating the laws of all countries in the world, violation 
+of good manners! Hideurip is forbidden to use illegal activities, violations of 
+laws of all countries, violation of good manners, downloading large files!
+Hideurip is designed to surf anonymous on the Internet, certainly not 
+intended for illegal activities!
+
+Proxy Browser is provided as is, without warranty of any kind. Use of this
+service is entirely at your own risk. We cannot take responsibility for any direct 
+or indirect damages resulting from the use of this service.
+
+The service allows indirect browsing of external, third-party websites.
+We are not responsible for the content on any external websites that may be
+accessible through our service. A website viewed through our service is in no way 
+owned by or associated with this website.The term "indirect browsing" refers to
+the server which you connect to. During "direct" browsing, you connect to the server 
+which provides the resource you are requesting. During "indirect" browsing, 
+you connect to script running server. Our script downloads the requested resource and
+forwards it to you.
+
+Any resource (such as web pages, images, files) downloaded through our service may
+be modified. This may include, but is not limited to, editing URLs so that any 
+resources referenced by the target resource are also downloaded indirectly. 
+The accuracy and reliablity of this process is not guaranteed. The resource which 
+you receive may not be an accurate representation of the resource requested.
+
+A side-effect of indirect browsing may be anonymity. By connecting to script
+running server instead of the target server, the target server does not see your
+IP address. However, we do not guarantee our service will be truly anonymous. 
+The downloaded resource may reference other resources which your browser may 
+automatically download. The service attempts to reroute all such requests through
+script running server but may not be entirely successful. A single direct request 
+will compromise your anonymity.
+
+This service may download a resource over a secure connection but this may be 
+sent back to you over an unsecure connection. Do not enter confidential 
+information unless you are on a secure connection to script running server.
+
+Fake Mailer is prohibited to send phishing emails, spam. All data entered into
+the Fake Mailer must be true, it is strictly and explicitly prohibited from 
+impersonating someone else! Fake Mailer is not used for illegal purposes, violations
+of laws of all countries, violation of good manners!
+
+Proxy lists - data from the proxy list is strictly forbidden to misuse for 
+illegal purposes, violations of laws of all countries, violation of good manners!
+There is no WARRANTY about list.This is only forwarding data in NNTIME.com
+
+The author of this site assumes no responsibility for any misuse services &
+information located on Hideurip. The author of this site expressly prohibits
+all visitors from violating the laws of all countries through hideurip !
+################################################################################
+

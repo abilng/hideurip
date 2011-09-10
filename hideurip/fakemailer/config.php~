@@ -1,0 +1,11 @@
+<?
+// AdSense Setting
+$adOn        = "0";                        
+$publisherID = "";                           
+$channelID   = "";                           
+$siteroot="..";
+$siteURL ="../index.php" ;   // The URL of your site
+// Get a key from https://www.google.com/recaptcha/admin/create
+$publickey = "6Lftl8USAAAAAOW8Df6AMb-LzN_Fa-F7LTz13O7z";
+$privatekey = "6Lftl8USAAAAAPXcVG_3J16Y7MxKm0L4AEgGYHVM";
+?>

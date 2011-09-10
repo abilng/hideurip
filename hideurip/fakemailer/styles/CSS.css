@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+	#proxy_container {
+		width: 800px;
+		position: absolute;
+		top: 0px;
+		left: 20px;
+	}
+	#proxy_form {
+		height: 80px;
+		margin: 0px;
+		padding: 20px 20px 0px 20px;
+	}
+	#proxy_url {
+		font-family: "Trebuchet MS", sans-serif;
+		font-size: 16px;
+		color: #666666;
+		width: 100%;
+		padding: 4px;
+		border: 1px solid #AAAAAA;
+	}
+	#proxy_button {
+		background:url(go.jpg);
+		cursor: pointer;
+		width: 31px;
+		height: 30px;
+		border: none;
+		font-weight: bold;
+		color:#000;
+		padding: 4px;
+			}
+	#proxy_toggle {
+		font-family: "Lucida Sans Unicode", sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		color:#0C0;
+		text-decoration:blink;
+		background:url(bg.png);
+		display: block;
+		float: left;
+		margin: 0px 6px 0px 0px;
+		padding: 6px 8px;
+		border: 4px;
+		border:double:#0C0:dotted:groove;
+		-moz-outline-width: 0px;
+	}
+	#proxy_options {
+		padding: 8px 0px 0px 0px;
+	}
+	#proxy_options label {
+		font-family: "Lucida Sans Unicode", sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		color: #FFFFFF;
+		cursor: pointer;
+	}
